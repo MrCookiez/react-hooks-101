@@ -1,6 +1,6 @@
 # React hooks exercise
 
-🔴▶️ [Live:](react-hooks-101.netlify.app)
+🔴▶️ [Live](react-hooks-101.netlify.app)
 
 ## Requirements
 
