@@ -1,6 +1,8 @@
 # React hooks exercise
 
-🔴▶️ [Live](https://react-hooks-101.netlify.app)
+* `🔴` [Live](https://react-hooks-101.netlify.app);
+
+* `</>` [Code Sandbox](https://codesandbox.io/s/react-hooks-101-xdele?file=/src/App.js)
 
 ## Requirements
 
