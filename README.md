@@ -1,5 +1,7 @@
 # React hooks exercise
 
+🔴▶️ Live: react-hooks-101.netlify.app
+
 ## Requirements
 
 * ReactJS v17.0.2
