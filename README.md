@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React hooks exercise
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Requirements
 
 * ReactJS v17.0.2
 * Node v12.19.0
