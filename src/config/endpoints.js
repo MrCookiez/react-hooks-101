@@ -1,0 +1,1 @@
+export const url = 'https://run.mocky.io/v3/1a1ed336-bcfb-4555-b7ee-0500d80a2935';
