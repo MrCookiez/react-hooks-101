@@ -1,11 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import { DataProvider } from './context';
 import App from './App';
 
-ReactDOM.render(
+createRoot(document.getElementById('root')).render(
   <DataProvider>
     <App />
-  </DataProvider>,
-  document.getElementById('root')
+  </DataProvider>
 );
