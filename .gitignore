@@ -10,6 +10,7 @@
 
 # production
 /build
+/dist
 
 # misc
 .DS_Store
@@ -21,3 +22,45 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# seraph (managed — re-run `seraph spark` to update, don't hand-edit this block)
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/skills/api-design/
+.claude/skills/clean-architecture/
+.claude/skills/code-review/
+.claude/skills/code-review-practice/
+.claude/skills/debugging/
+.claude/skills/deprecation-and-migration/
+.claude/skills/design-patterns/
+.claude/skills/devops/
+.claude/skills/domain-modeling/
+.claude/skills/frontend-ui-engineering/
+.claude/skills/giving-code-review/
+.claude/skills/hotspot-analysis/
+.claude/skills/legacy-code/
+.claude/skills/multi-agent-systems/
+.claude/skills/observability/
+.claude/skills/performance-optimization/
+.claude/skills/receiving-code-review/
+.claude/skills/refactoring/
+.claude/skills/requirements-interviewing/
+.claude/skills/secure-coding/
+.claude/skills/security-and-hardening/
+.claude/skills/software-architecture/
+.claude/skills/software-design/
+.claude/skills/test-driven-development/
+.claude/skills/verification/
+.claude/skills/writing-for-agents/
+.claude/skills/writing-skills/
+.claude/commands/seraph-absorb.md
+.claude/commands/seraph-audit.md
+.claude/commands/seraph-build.md
+.claude/commands/seraph-debug.md
+.claude/commands/seraph-distill.md
+.claude/commands/seraph-handoff.md
+.claude/commands/seraph-plan.md
+.claude/commands/seraph-recommend.md
+.claude/commands/seraph-report.md
+.claude/commands/seraph-sync.md
+# end seraph
